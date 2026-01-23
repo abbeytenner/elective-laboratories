@@ -1,4 +1,4 @@
-
+![banner supposed to go here](https://github.com/abbeytenner/elective-laboratories/blob/main/laboratory%202/branding/banner/bannerActual.png)
 # About ME
 
 I don't have much on here, yet.
